@@ -10,7 +10,7 @@ Consulting & Analytics Club, IIT Guwahati, widely known as C&A, is a premier stu
 [YouTube](https://www.youtube.com/channel/UCPQIu6FXWE623QatJjXaWxg)
 
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/Python-language.png)
+
 ## Week 1
 Introduction to Python and Python Libraries
 
@@ -19,9 +19,10 @@ Introduction to Python and Python Libraries
 ∙Pandas
 ∙Data Analysis and Visualisation
 
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/Python-language.png)
 
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/machine-learning-examples-applications.png)
+
 ## Week 2
 ML Algorithms
 
@@ -32,9 +33,9 @@ ML Algorithms
 ∙Cost Function
 ∙Gradient Ascent
 
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/machine-learning-examples-applications.png)
 
 
-![Alt text](https://raw.githubusercontent.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/main/35_deep_learning_algorithm-512.webp)
 ## Week 3
 Model Tuning
 
@@ -44,9 +45,10 @@ Model Tuning
 ∙The Confusion Matrix
 ∙Evaluation Metrics
 
+![Alt text](https://raw.githubusercontent.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/main/35_deep_learning_algorithm-512.webp)
 
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/binary-tree-to-DLL.png)
+
 ## Week 4
 Tree-based Algorithms
 
@@ -55,9 +57,9 @@ Tree-based Algorithms
 ∙Feature Selection & Engineering
 ∙Hyperparameter Tuning
 
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/binary-tree-to-DLL.png)
 
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png)
 ## Week 5
 Neural Networks
 
@@ -66,12 +68,16 @@ Neural Networks
 ∙Dimensionality Reduction
 ∙K Means Clustering
 
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png)
 
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/dom-fou-YRMWVcdyhmI-unsplash.jpg)
 Week 2-6
 Webinars, AMA Sessions & Hackthons
 
 ∙Webinars by Industrial Experts
 ∙Hackathons
 ∙Weekly Discussions
+
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/dom-fou-YRMWVcdyhmI-unsplash.jpg)
+
+
