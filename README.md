@@ -10,7 +10,8 @@ Consulting & Analytics Club, IIT Guwahati, widely known as C&A, is a premier stu
 [YouTube](https://www.youtube.com/channel/UCPQIu6FXWE623QatJjXaWxg)
 
 
-Week 1
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/Python-language.png)
+## Week 1
 Introduction to Python and Python Libraries
 
 ∙Basics of Python
@@ -19,7 +20,9 @@ Introduction to Python and Python Libraries
 ∙Data Analysis and Visualisation
 
 
-Week 2
+
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/machine-learning-examples-applications.png)
+## Week 2
 ML Algorithms
 
 ∙Handling Missing Values
@@ -29,7 +32,10 @@ ML Algorithms
 ∙Cost Function
 ∙Gradient Ascent
 
-Week 3
+
+
+![Alt text](https://raw.githubusercontent.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/main/35_deep_learning_algorithm-512.webp)
+## Week 3
 Model Tuning
 
 ∙Generalisation
@@ -38,7 +44,10 @@ Model Tuning
 ∙The Confusion Matrix
 ∙Evaluation Metrics
 
-Week 4
+
+
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/binary-tree-to-DLL.png)
+## Week 4
 Tree-based Algorithms
 
 ∙Tree Based Models
@@ -46,7 +55,10 @@ Tree-based Algorithms
 ∙Feature Selection & Engineering
 ∙Hyperparameter Tuning
 
-Week 5
+
+
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png)
+## Week 5
 Neural Networks
 
 ∙Introduction to Deep Learning
@@ -55,6 +67,8 @@ Neural Networks
 ∙K Means Clustering
 
 
+
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/dom-fou-YRMWVcdyhmI-unsplash.jpg)
 Week 2-6
 Webinars, AMA Sessions & Hackthons
 
