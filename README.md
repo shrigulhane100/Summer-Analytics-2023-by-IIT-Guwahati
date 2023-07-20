@@ -1,5 +1,5 @@
 # Summer-Analytics-2023-by-IIT-Guwahati
-A PRIMER COURSE ON DATA SCIENCE AND MACHINE LEARNING.
+### A PRIMER COURSE ON DATA SCIENCE AND MACHINE LEARNING.
 For 6 Week with Projects and Hackthon.
 
 Consulting & Analytics Club, IIT Guwahati, widely known as C&A, is a premier student group operating under the Technical Board of IIT Guwahati since 2016.
