@@ -5,8 +5,11 @@ For 6 Week with Projects and Hackthon.
 Consulting & Analytics Club, IIT Guwahati, widely known as C&A, is a premier student group operating under the Technical Board of IIT Guwahati since 2016.
 
 [Website](https://caciitg.com/)
+
 [LinkedIn](https://www.linkedin.com/company/caciitg/)
+
 [GitHub](https://github.com/caciitg)
+
 [YouTube](https://www.youtube.com/channel/UCPQIu6FXWE623QatJjXaWxg)
 
 
@@ -71,7 +74,7 @@ Neural Networks
 ![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png)
 
 
-Week 2-6
+## Week 2-6
 Webinars, AMA Sessions & Hackthons
 
 ∙Webinars by Industrial Experts
