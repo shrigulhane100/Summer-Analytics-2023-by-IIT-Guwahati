@@ -18,7 +18,7 @@ For 6 Week with Projects and Hackthon.
 
 
 ## Week 1
-Introduction to Python and Python Libraries
+`Introduction to Python and Python Libraries`
 
 - Basics of Python
 - NumPy
@@ -30,7 +30,7 @@ Introduction to Python and Python Libraries
 
 
 ## Week 2
-ML Algorithms
+`ML Algorithms`
 
 - Handling Missing Values
 - Types of Machine Learning
@@ -43,7 +43,7 @@ ML Algorithms
 
 
 ## Week 3
-Model Tuning
+`Model Tuning`
 
 - Generalisation
 - Overfitting and Underfitting
@@ -56,7 +56,7 @@ Model Tuning
 
 
 ## Week 4
-Tree-based Algorithms
+`Tree-based Algorithms`
 
 - Tree-Based Models
 - Gradient Boosting
@@ -67,7 +67,7 @@ Tree-based Algorithms
 
 
 ## Week 5
-Neural Networks
+`Neural Networks`
 
 - Introduction to Deep Learning
 - Unsupervised Learning
@@ -78,7 +78,7 @@ Neural Networks
 
 
 ## Week 2-6
-Webinars, AMA Sessions & Hackthons
+`Webinars, AMA Sessions & Hackthons`
 
 - Webinars by Industrial Experts
 - Hackathons
