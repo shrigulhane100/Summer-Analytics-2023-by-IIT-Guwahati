@@ -1,3 +1,4 @@
+### Hackathon Conducted on [AI Planet](https://aiplanet.com/)
 
 The dataset contains various factors that contribute to a person's lifestyle. 
 Your task is to build a model that uses these factors to predict whether a person is leading a 'healthy' lifestyle or not. 
