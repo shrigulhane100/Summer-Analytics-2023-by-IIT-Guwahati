@@ -68,7 +68,7 @@ Any Contribution is welcome.
 - Feature Selection & Engineering
 - Hyperparameter Tuning
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/binary-tree-to-DLL.png)
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/images/binary-tree-to-DLL.png)
 
 
 ## Week 5
@@ -79,7 +79,7 @@ Any Contribution is welcome.
 - Dimensionality Reduction
 - K Means Clustering
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png)
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/images/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png)
 
 
 ## Week 2-6
@@ -89,6 +89,6 @@ Any Contribution is welcome.
 - Hackathons
 - Weekly Discussions
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/dom-fou-YRMWVcdyhmI-unsplash.jpg)
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/images/dom-fou-YRMWVcdyhmI-unsplash.jpg)
 
 
