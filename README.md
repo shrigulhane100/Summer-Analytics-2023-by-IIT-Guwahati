@@ -30,7 +30,7 @@ Any Contribution is welcome.
 - Pandas
 - Data Analysis and Visualisation
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/Python-language.png)
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/images/Python-language.png)
 
 
 
@@ -44,7 +44,7 @@ Any Contribution is welcome.
 - Cost Function
 - Gradient Ascent
 
-![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/machine-learning-examples-applications.png)
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/images/machine-learning-examples-applications.png)
 
 
 ## Week 3
@@ -56,7 +56,7 @@ Any Contribution is welcome.
 - The Confusion Matrix
 - Evaluation Metrics
 
-![Alt text](https://raw.githubusercontent.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/main/35_deep_learning_algorithm-512.webp)
+![Alt text](https://github.com/shrigulhane100/Summer-Analytics-2023-by-IIT-Guwahati/blob/main/images/35_deep_learning_algorithm-512.webp)
 
 
 
